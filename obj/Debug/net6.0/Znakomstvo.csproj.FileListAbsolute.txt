@@ -1,0 +1,15 @@
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\bin\Debug\net6.0\Znakomstvo.exe
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\bin\Debug\net6.0\Znakomstvo.deps.json
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\bin\Debug\net6.0\Znakomstvo.runtimeconfig.json
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\bin\Debug\net6.0\Znakomstvo.dll
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\bin\Debug\net6.0\Znakomstvo.pdb
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.AssemblyInfo.cs
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.dll
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\refint\Znakomstvo.dll
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.pdb
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\Znakomstvo.genruntimeconfig.cache
+C:\Users\Админ\Documents\GitHub\KR-IT-specialist\Znakomstvo\obj\Debug\net6.0\ref\Znakomstvo.dll
